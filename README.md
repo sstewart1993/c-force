@@ -1,4 +1,6 @@
 # c4_game
+This was my version of a javascript game of connect four created using mongoDb, Vue and of JS. If you are reading this then why not download it and give it a try... My The Force Be With You!
+
 
 ## Project setup
 ```
